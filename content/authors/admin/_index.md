@@ -15,15 +15,15 @@ role: NLP Scientist
 # Organizations/Affiliations
 organizations:
 - name: Mosaix
-  url: ""
+  url: "mosaix.ai"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ...
 
 interests:
+- Computational Linguistics / NLP
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Syntax & Phonology
 
 education:
   courses:
@@ -33,7 +33,7 @@ education:
   - course: MPhil in Linguistics
     institution: University of Cambridge
     year: 2013
-  - course: BA in Modern and Medieval Languages
+  - course: BA in Modern & Medieval Languages
     institution: University of Cambridge
     year: 2012
 
@@ -44,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: mailto:danielg@mail.fo
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1cx4jt4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/danielgalbraith
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
