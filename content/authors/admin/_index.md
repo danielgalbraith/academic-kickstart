@@ -21,7 +21,7 @@ organizations:
 bio: ...
 
 interests:
-- Computational Linguistics / NLP
+- NLP / Computational Linguistics
 - Artificial Intelligence
 - Syntax & Phonology
 
