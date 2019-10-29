@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-...
+I'm an NLP Scientist at Mosaix, working on research and development of cutting-edge language AI for the emerging markets. I recently graduated from Stanford with a PhD in Linguistics. I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I spent the last 5 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated, managed and analysed large quantities of new data, using statistical and computational methods. You can see my machine learning projects and research tools I built at github.com/danielgalbraith.
