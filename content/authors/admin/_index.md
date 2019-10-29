@@ -51,6 +51,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/danielgalbraith
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/daniel-galbraith-phd-88b81aa2/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -69,4 +72,4 @@ user_groups:
 
 I'm an NLP Scientist at Mosaix, working on research and development of cutting-edge language AI for the emerging markets. I recently graduated from Stanford with a PhD in Linguistics. I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
 
-I spent the last 5 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated, managed and analysed large quantities of new data, using statistical and computational methods. You can see my machine learning projects and research tools I built at github.com/danielgalbraith.
+I spent the last 6 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated, managed and analysed large quantities of new data, using statistical and computational methods. You can see my machine learning projects and research tools I built at [my Github](github.com/danielgalbraith).
