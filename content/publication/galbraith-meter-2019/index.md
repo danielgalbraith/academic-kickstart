@@ -5,7 +5,7 @@ publishDate: 2019-10-29T23:10:44.874635Z
 authors: ["Daniel Galbraith"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Nordic Journal of Linguistics*"
 doi: "10.1017/S0332586519000192"
 ---
