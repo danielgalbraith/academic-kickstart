@@ -18,6 +18,12 @@ title = "Relevant skills"
   description = ""
   
 [[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Scala"
+  description = ""
+  
+[[feature]]
   icon = "java"
   icon_pack = "fab"
   name = "Java"
@@ -28,13 +34,7 @@ title = "Relevant skills"
   icon_pack = "fab"
   name = "Linux"
   description = ""
-  
-[[feature]]
-  icon = "ubuntu"
-  icon_pack = "fab"
-  name = "Ubuntu"
-  description = ""
-  
+    
 [[feature]]
   icon = "github"
   icon_pack = "fab"
