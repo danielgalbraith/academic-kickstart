@@ -1,3 +1,4 @@
++++
 widget = "featurette"
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
@@ -21,3 +22,4 @@ title = "Skills"
   icon_pack = "fas"
   name = "Statistics"
   description = ""
++++
