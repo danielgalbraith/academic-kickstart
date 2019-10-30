@@ -40,7 +40,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Research Assistant & Teaching Assistant"
   company = "Stanford University"
-  company_url = ""
+  company_url = "https://linguistics.stanford.edu/"
   location = "Stanford, CA"
   date_start = "2013-09-13"
   date_end = "2018-07-01"
