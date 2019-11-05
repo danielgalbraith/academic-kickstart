@@ -5,8 +5,8 @@ featured: true
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Decoding human language into 1s and 0s."
+  image: "robot.png"
 ---
 
 _[This article](https://medium.com/mosaix/better-linguistics-for-better-voice-assistance-db1402dccb58) appeared on Medium on March 27, 2019._
