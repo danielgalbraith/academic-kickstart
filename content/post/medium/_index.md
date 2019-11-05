@@ -1,14 +1,5 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+title: Better Linguistics for Better Voice Assistance
+url: https://medium.com/mosaix/better-linguistics-for-better-voice-assistance-db1402dccb58
+summary: How we use linguistics to advance multilingual NLU.
 ---
