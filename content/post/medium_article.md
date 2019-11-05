@@ -5,14 +5,8 @@ featured: true
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
-  
-image:
-  placement: 1
   caption: "Image by JJ Torres"
-  focal_point: "Center"
-  preview_only: true
+  image: "robot.png"
   
 ---
 
