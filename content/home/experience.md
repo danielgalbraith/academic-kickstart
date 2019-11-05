@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-11-05"
   date_end = ""
   description = """
-  Research and development of NLU engine.
+  Research and development of NLU engine for multi-language voice assistance.
   """
 
 [[experience]]
@@ -36,5 +36,14 @@ date_format = "Jan 2006"
   date_start = "2018-07-01"
   date_end = "2018-10-31"
   description = """Write daily patches & software updates for Siri speech recognition and text-to-speech."""
+  
+[[experience]]
+  title = "Graduate Research Assistant & Teaching Assistant"
+  company = "Stanford University"
+  company_url = "https://linguistics.stanford.edu/"
+  location = "Stanford, CA"
+  date_start = "2013-09-13"
+  date_end = "2018-07-01"
+  description = """Linguistics research on syntax and metrical phonology with advisor Paul Kiparsky."""
 
 +++

@@ -6,6 +6,6 @@ authors: ["Daniel Galbraith"]
 publication_types: ["7"]
 abstract: ""
 featured: false
-publication: ""
+publication: "Master's thesis, University of Cambridge"
 ---
 
