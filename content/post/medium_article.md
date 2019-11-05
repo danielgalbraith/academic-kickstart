@@ -12,7 +12,8 @@ image:
   placement: 1
   caption: "Image by JJ Torres"
   focal_point: "Center"
-  preview_only: false
+  preview_only: true
+  
 ---
 
 _[This article](https://medium.com/mosaix/better-linguistics-for-better-voice-assistance-db1402dccb58) appeared on Medium on March 27, 2019._
