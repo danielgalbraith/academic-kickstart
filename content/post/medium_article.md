@@ -16,5 +16,3 @@ image:
 ---
 
 _[This article](https://medium.com/mosaix/better-linguistics-for-better-voice-assistance-db1402dccb58) appeared on Medium on March 27, 2019._
-
-#{{< figure library="true" src="robot.png" title="Image by JJ Torres" lightbox="true" >}}
