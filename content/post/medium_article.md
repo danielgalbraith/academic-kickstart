@@ -1,6 +1,7 @@
 ---
 title: Better Linguistics for Better Voice Assistance
 summary: How we use linguistics to advance multilingual NLU.
+featured: true
 
 # Optional header image (relative to `static/img/` folder).
 header:
