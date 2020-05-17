@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: NLP Scientist
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Mosaix
-  url: "http://mosaix.ai"
+- name: Amazon Lab126
+  url: "https://amazon.jobs/en/teams/lab126/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: NLP Scientist at Mosaix, building cutting-edge language AI for the emerging markets.
+bio: Research Scientist at Amazon Lab126.
 
 interests:
 - NLP / Computational Linguistics
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I'm an NLP Scientist at Mosaix, working on research and development of cutting-edge language AI for the emerging markets. I recently graduated from Stanford with a PhD in Linguistics. I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
+I'm a Research Scientist at Amazon Lab126. I enjoy working on cutting-edge NLP and all kinds of problems involving human language. I graduated from Stanford with a PhD in Linguistics (2018). I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
 
-I spent the last 6 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated and analysed large quantities of new linguistic data, using statistical and computational methods. You can see machine learning projects and research tools I built at [my Github](http://github.com/danielgalbraith).
+I spent the last 7 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated and analysed large quantities of new linguistic data, using statistical and computational methods. You can see machine learning projects and research tools I built at [my Github](http://github.com/danielgalbraith).
