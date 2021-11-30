@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Linguist
 
 # Organizations/Affiliations
 organizations:
-- name: Amazon Lab126
-  url: "https://amazon.jobs/en/teams/lab126/"
+- name: Google
+  url: "about.google"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Scientist at Amazon Lab126.
+bio: Linguist at Google.
 
 interests:
 - NLP / Computational Linguistics
@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a Research Scientist at Amazon Lab126. I enjoy working on cutting-edge NLP and all kinds of problems involving human language. I graduated from Stanford with a PhD in Linguistics (2018). I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
+I'm a Linguist at Google. I enjoy working on cutting-edge NLP and all kinds of problems involving human language. I graduated from Stanford with a PhD in Linguistics (2018). I am excited about applying deep knowledge of how language works to useful projects in the tech industry.
 
-I spent the last 7 years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated and analysed large quantities of new linguistic data, using statistical and computational methods. You can see machine learning projects and research tools I built at [my Github](http://github.com/danielgalbraith).
+I spent the last several years dedicated to human language research, developing a new approach to syntax. During PhD, I sourced, annotated and analysed large quantities of new linguistic data, using statistical and computational methods. You can see machine learning projects and research tools I built at [my Github](http://github.com/danielgalbraith).
